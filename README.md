@@ -1,4 +1,4 @@
-# The Remix Chat BE
+# Learn Python Fastapi
 
 This project is created for me to learn Python by doing:
 
